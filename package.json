@@ -1,0 +1,26 @@
+{
+  "name": "all-currencies-converter",
+  "version": "1.0.0",
+  "description": "An npm package to convert all currencies",
+  "keywords": [
+    "npm"
+  ],
+  "homepage": "https://github.com/CleanCodeNinja01/all-currencies-converter#readme",
+  "bugs": {
+    "url": "https://github.com/CleanCodeNinja01/all-currencies-converter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CleanCodeNinja01/all-currencies-converter.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Saleha Shujaat",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test "
+  },
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
